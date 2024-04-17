@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /client/dashboard
+Disallow: /client/giveaway
+Disallow: /client/profile
+Disallow: /client/edit
+Disallow: /admin
+Disallow: /sitemap.xml
